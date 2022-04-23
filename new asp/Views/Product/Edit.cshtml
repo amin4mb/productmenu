@@ -1,0 +1,35 @@
+﻿@model product
+
+<h1>جزئیات کالا با شناسه </h1>
+<p>@Model</p>
+<form action="/Product/Edit" method="post">
+
+    <div class="mb-3">
+        <label for="productid" class="form-label">شناسه کالا</label>
+        <input type="text" class="form-control" id="productid" readonly value="@Model.Id" name="Id" >
+    </div>
+    <div class="mb-3">
+        <label for="producttitle" class="form-label">نام کالا </label>
+        <input type="text" class="form-control" id="producttitle" placeholder="فارسی وارد کنید" value="@Model.Name" name="Name">
+    </div>
+    <div class="mb-3">
+        <label for="productcount" class="form-label">تعداد </label>
+        <input type="text" class="form-control" id="productcount" placeholder="تعداد را وارد کنید" value="@Model.count" name="Count">
+    </div>
+    <div class="mb-3">
+        <label for="productprice" class="form-label">تعداد </label>
+        <input type="text" class="form-control" id="productprice" placeholder="به ریال وارد کنید" value="@Model.Price" name="Price">
+    </div>
+    <div class="mb-3">
+        <input type="submit" class="btn btn-success" value="ویرایش">
+
+        <a class="btn btn-light" asp-controller="Product" asp-action="product" style="background-color:#a2c9f1" س> بازگشت به لیست </a>
+    </div>
+
+
+
+
+
+</form>
+
+

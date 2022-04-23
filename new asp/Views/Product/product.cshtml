@@ -1,0 +1,29 @@
+﻿
+@model List<product>
+
+@{
+    ViewData["Title"] = "لیست محصولات";
+}
+<h1 dir="rtl" style="float:right">@ViewData["Title"]</h1>
+<a class="btn-danger" asp-controller="Product" asp-action="Create" style="float:left">اضافه کردن</a>
+<table class="table table-striped" dir="rtl">
+
+    <tr >
+        <th>شناسه کالا</th>
+        <th>نام</th>
+        <th>تعداد</th>
+        <th>  </th>
+    </tr>
+    @foreach(var item in Model){
+       <tr>
+        <td> @item.Id</td>
+        <td> @item.Name</td>
+        <td> @item.count</td>
+        <td> <a class="btn-info" asp-controller="Product" asp-action="Details" asp-route-id="@item.Id">جزِئیات</a>
+            <a class="btn-warning" asp-controller="Product" asp-action="Edit" asp-route-id="@item.Id">ویرایش</a>
+            <a class="btn-danger" asp-controller="Product" asp-action="Delete" asp-route-id="@item.Id">حذف</a>
+        </td>
+       </tr> 
+    }
+        
+</table>

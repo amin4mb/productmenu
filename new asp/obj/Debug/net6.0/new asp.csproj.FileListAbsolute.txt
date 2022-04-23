@@ -1,0 +1,26 @@
+C:\Users\amin\source\repos\asp\new asp\new asp\obj\Debug\net6.0\new asp.csproj.AssemblyReference.cache
+C:\Users\amin\source\repos\asp\new asp\new asp\obj\Debug\net6.0\new asp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amin\source\repos\asp\new asp\new asp\obj\Debug\net6.0\new asp.AssemblyInfoInputs.cache
+C:\Users\amin\source\repos\asp\new asp\new asp\obj\Debug\net6.0\new asp.AssemblyInfo.cs
+C:\Users\amin\source\repos\asp\new asp\new asp\obj\Debug\net6.0\new asp.csproj.CoreCompileInputs.cache
+C:\Users\amin\source\repos\asp\new asp\new asp\obj\Debug\net6.0\new asp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amin\source\repos\asp\new asp\new asp\obj\Debug\net6.0\new asp.RazorAssemblyInfo.cache
+C:\Users\amin\source\repos\asp\new asp\new asp\obj\Debug\net6.0\new asp.RazorAssemblyInfo.cs
+C:\Users\amin\source\repos\asp\new asp\new asp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\amin\source\repos\asp\new asp\new asp\bin\Debug\net6.0\appsettings.json
+C:\Users\amin\source\repos\asp\new asp\new asp\bin\Debug\net6.0\new asp.staticwebassets.runtime.json
+C:\Users\amin\source\repos\asp\new asp\new asp\bin\Debug\net6.0\new asp.exe
+C:\Users\amin\source\repos\asp\new asp\new asp\bin\Debug\net6.0\new asp.deps.json
+C:\Users\amin\source\repos\asp\new asp\new asp\bin\Debug\net6.0\new asp.runtimeconfig.json
+C:\Users\amin\source\repos\asp\new asp\new asp\bin\Debug\net6.0\new asp.dll
+C:\Users\amin\source\repos\asp\new asp\new asp\bin\Debug\net6.0\new asp.pdb
+C:\Users\amin\source\repos\asp\new asp\new asp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\amin\source\repos\asp\new asp\new asp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\amin\source\repos\asp\new asp\new asp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\amin\source\repos\asp\new asp\new asp\obj\Debug\net6.0\scopedcss\bundle\new asp.styles.css
+C:\Users\amin\source\repos\asp\new asp\new asp\obj\Debug\net6.0\scopedcss\projectbundle\new asp.bundle.scp.css
+C:\Users\amin\source\repos\asp\new asp\new asp\obj\Debug\net6.0\new asp.dll
+C:\Users\amin\source\repos\asp\new asp\new asp\obj\Debug\net6.0\refint\new asp.dll
+C:\Users\amin\source\repos\asp\new asp\new asp\obj\Debug\net6.0\new asp.pdb
+C:\Users\amin\source\repos\asp\new asp\new asp\obj\Debug\net6.0\new asp.genruntimeconfig.cache
+C:\Users\amin\source\repos\asp\new asp\new asp\obj\Debug\net6.0\ref\new asp.dll
