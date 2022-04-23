@@ -8,57 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = new_asp
 build_property.RootNamespace = new_asp
-build_property.ProjectDir = C:\Users\amin\source\repos\asp\new asp\new asp\
+build_property.ProjectDir = D:\EXE\send\asp product\productmenu\new asp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\amin\source\repos\asp\new asp\new asp
+build_property.MSBuildProjectDirectory = D:\EXE\send\asp product\productmenu\new asp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/amin/source/repos/asp/new asp/new asp/Views/Home/Index.cshtml]
+[D:/EXE/send/asp product/productmenu/new asp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/amin/source/repos/asp/new asp/new asp/Views/Home/Privacy.cshtml]
+[D:/EXE/send/asp product/productmenu/new asp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/amin/source/repos/asp/new asp/new asp/Views/Product/Create.cshtml]
+[D:/EXE/send/asp product/productmenu/new asp/Views/Product/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/amin/source/repos/asp/new asp/new asp/Views/Product/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/amin/source/repos/asp/new asp/new asp/Views/Product/Details.cshtml]
+[D:/EXE/send/asp product/productmenu/new asp/Views/Product/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/amin/source/repos/asp/new asp/new asp/Views/Product/Edit.cshtml]
+[D:/EXE/send/asp product/productmenu/new asp/Views/Product/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/amin/source/repos/asp/new asp/new asp/Views/Product/product.cshtml]
+[D:/EXE/send/asp product/productmenu/new asp/Views/Product/product.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxwcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/amin/source/repos/asp/new asp/new asp/Views/Shared/Error.cshtml]
+[D:/EXE/send/asp product/productmenu/new asp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/amin/source/repos/asp/new asp/new asp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/EXE/send/asp product/productmenu/new asp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/amin/source/repos/asp/new asp/new asp/Views/_ViewImports.cshtml]
+[D:/EXE/send/asp product/productmenu/new asp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/amin/source/repos/asp/new asp/new asp/Views/_ViewStart.cshtml]
+[D:/EXE/send/asp product/productmenu/new asp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/amin/source/repos/asp/new asp/new asp/Views/Shared/_Layout.cshtml]
+[D:/EXE/send/asp product/productmenu/new asp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5gebh4oifc

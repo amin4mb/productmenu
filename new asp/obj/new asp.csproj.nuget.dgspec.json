@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amin\\source\\repos\\asp\\new asp\\new asp\\new asp.csproj": {}
+    "D:\\EXE\\send\\asp product\\productmenu\\new asp\\new asp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amin\\source\\repos\\asp\\new asp\\new asp\\new asp.csproj": {
+    "D:\\EXE\\send\\asp product\\productmenu\\new asp\\new asp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amin\\source\\repos\\asp\\new asp\\new asp\\new asp.csproj",
+        "projectUniqueName": "D:\\EXE\\send\\asp product\\productmenu\\new asp\\new asp.csproj",
         "projectName": "new asp",
-        "projectPath": "C:\\Users\\amin\\source\\repos\\asp\\new asp\\new asp\\new asp.csproj",
+        "projectPath": "D:\\EXE\\send\\asp product\\productmenu\\new asp\\new asp.csproj",
         "packagesPath": "C:\\Users\\amin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amin\\source\\repos\\asp\\new asp\\new asp\\obj\\",
+        "outputPath": "D:\\EXE\\send\\asp product\\productmenu\\new asp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amin\\AppData\\Roaming\\NuGet\\NuGet.Config",
