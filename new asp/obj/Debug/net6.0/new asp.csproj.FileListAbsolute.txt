@@ -24,3 +24,29 @@ C:\Users\amin\source\repos\asp\new asp\new asp\obj\Debug\net6.0\refint\new asp.d
 C:\Users\amin\source\repos\asp\new asp\new asp\obj\Debug\net6.0\new asp.pdb
 C:\Users\amin\source\repos\asp\new asp\new asp\obj\Debug\net6.0\new asp.genruntimeconfig.cache
 C:\Users\amin\source\repos\asp\new asp\new asp\obj\Debug\net6.0\ref\new asp.dll
+D:\EXE\send\asp product\productmenu\new asp\bin\Debug\net6.0\appsettings.Development.json
+D:\EXE\send\asp product\productmenu\new asp\bin\Debug\net6.0\appsettings.json
+D:\EXE\send\asp product\productmenu\new asp\bin\Debug\net6.0\new asp.staticwebassets.runtime.json
+D:\EXE\send\asp product\productmenu\new asp\bin\Debug\net6.0\new asp.exe
+D:\EXE\send\asp product\productmenu\new asp\bin\Debug\net6.0\new asp.deps.json
+D:\EXE\send\asp product\productmenu\new asp\bin\Debug\net6.0\new asp.runtimeconfig.json
+D:\EXE\send\asp product\productmenu\new asp\bin\Debug\net6.0\new asp.dll
+D:\EXE\send\asp product\productmenu\new asp\bin\Debug\net6.0\new asp.pdb
+D:\EXE\send\asp product\productmenu\new asp\obj\Debug\net6.0\new asp.csproj.AssemblyReference.cache
+D:\EXE\send\asp product\productmenu\new asp\obj\Debug\net6.0\new asp.GeneratedMSBuildEditorConfig.editorconfig
+D:\EXE\send\asp product\productmenu\new asp\obj\Debug\net6.0\new asp.AssemblyInfoInputs.cache
+D:\EXE\send\asp product\productmenu\new asp\obj\Debug\net6.0\new asp.AssemblyInfo.cs
+D:\EXE\send\asp product\productmenu\new asp\obj\Debug\net6.0\new asp.csproj.CoreCompileInputs.cache
+D:\EXE\send\asp product\productmenu\new asp\obj\Debug\net6.0\new asp.MvcApplicationPartsAssemblyInfo.cache
+D:\EXE\send\asp product\productmenu\new asp\obj\Debug\net6.0\new asp.RazorAssemblyInfo.cache
+D:\EXE\send\asp product\productmenu\new asp\obj\Debug\net6.0\new asp.RazorAssemblyInfo.cs
+D:\EXE\send\asp product\productmenu\new asp\obj\Debug\net6.0\staticwebassets.build.json
+D:\EXE\send\asp product\productmenu\new asp\obj\Debug\net6.0\staticwebassets.development.json
+D:\EXE\send\asp product\productmenu\new asp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\EXE\send\asp product\productmenu\new asp\obj\Debug\net6.0\scopedcss\bundle\new asp.styles.css
+D:\EXE\send\asp product\productmenu\new asp\obj\Debug\net6.0\scopedcss\projectbundle\new asp.bundle.scp.css
+D:\EXE\send\asp product\productmenu\new asp\obj\Debug\net6.0\new asp.dll
+D:\EXE\send\asp product\productmenu\new asp\obj\Debug\net6.0\refint\new asp.dll
+D:\EXE\send\asp product\productmenu\new asp\obj\Debug\net6.0\new asp.pdb
+D:\EXE\send\asp product\productmenu\new asp\obj\Debug\net6.0\new asp.genruntimeconfig.cache
+D:\EXE\send\asp product\productmenu\new asp\obj\Debug\net6.0\ref\new asp.dll

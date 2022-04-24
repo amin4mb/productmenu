@@ -52,6 +52,10 @@ namespace new_asp.Controllers
             ProductDB.Add(p);
             return RedirectToAction("product");
         }
+        public IActionResult Error()
+        {
+            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
 
 
     }
